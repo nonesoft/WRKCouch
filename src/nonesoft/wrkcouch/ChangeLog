@@ -1,0 +1,6 @@
+2019-01-05  nonesoft  <nonesoft@outlook.com>
+	
+	* BaseSchedule.java: New file
+	* KeyDays.java: New file
+	* package-info.java: New file with definition base package
+	* Roles.java: New file
