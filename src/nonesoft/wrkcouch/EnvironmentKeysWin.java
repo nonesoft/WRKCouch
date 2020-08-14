@@ -1,4 +1,4 @@
-package nonesoft.develop_manager;
+package nonesoft.wrkcouch;
 
 public enum EnvironmentKeysWin {
 	HOME("HOME"),

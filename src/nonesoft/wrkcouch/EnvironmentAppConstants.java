@@ -1,4 +1,4 @@
-package nonesoft.develop_manager;
+package nonesoft.wrkcouch;
 
 import java.util.HashMap;
 import java.util.Map;
